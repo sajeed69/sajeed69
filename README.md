@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on Creating Mobile and Web Application<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing Mobile Applications and Foundation<br>🌱 I’m currently learning App Development & React Native<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Sajeed+Ahmed;%F0%9F%92%BB+Web+Mobile+Developer;%F0%9F%A4%96+Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sajeed1234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajeedahmedrafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajeed-ahmed-99a95a328) 
@@ -21,4 +27,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sajeed69&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajeed69&custom_title=Sajeed%20Ahmed's%20Contribution%20Graph&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&title_color=2F81F7&area=true" alt="Contribution Graph" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
